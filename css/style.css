@@ -1,0 +1,11 @@
+.main-container {
+  /* add extra distance to the top, so that the navbar does not overlap the page-content */
+  margin-top: 70px;
+}
+
+.extra-space {
+  margin-top: 8px;
+  margin-bottom: 150px;
+  margin-left: 10%;
+  margin-right: 10%;
+}
